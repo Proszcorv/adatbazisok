@@ -1,3 +1,6 @@
+--Kimásoltam az összes sorát az ügyféltáblának és beraktam egy excel munkafüzetbe.
+--Ezután egy online excel -> sql konverterrel egy sql táblát csináltam belőle amit feltöltöttem az orán használt online editorba
+
 --Maszkolt tábla létrehozása
 
 CREATE TABLE Ugyfel_maszk (
