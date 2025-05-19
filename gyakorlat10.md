@@ -94,7 +94,8 @@ a. A szükséges utasítást adja meg válaszként!
 a. A szükséges utasításokat (két utasítás) adjuk meg válaszként!
 
 ```js
-
+ZRANGE szemelyek 0 -1 withscores
+ZINCRBY szemelyek 10 Juli
 ```
 
 11.\ A redis-cli-ben hajtsuk végre a következő adatmódosításokat:
