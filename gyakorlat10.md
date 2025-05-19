@@ -142,7 +142,7 @@ a. A szükséges utasításokat adjuk meg válaszként kép formájában!
 a. A szükséges utasítást adja meg válaszként!
 
 ```js
-
+HSET dolgozo_nev 1 "Nagy Eva" 2 "Kiss Ilona"
 ```
 
 15.\ A redis-cli-ben listázza a létező kulcsok számát a dbsize utasítás segítségével!
