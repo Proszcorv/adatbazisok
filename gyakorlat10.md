@@ -117,7 +117,12 @@ Kiss Ilona   konyvelo                2
 a. A szükséges utasításokat tartalmazó képernyőrészt adja meg válaszként kép formájában!
 
 ```js
-
+SET dolgozo:1:nev "Nagy Eva"
+SET dolgozo:1:munkakor "titkarno"
+SET dolgozo:1:kod "1"
+SET dolgozo:2:nev "Kiss Ilona"
+SET dolgozo:2:munkakor "konyvelo"
+SET dolgozo:2:kod "2"
 ```
 
 13.\ A redis-cli-ben hozzuk létre a projekt táblának megfelelő adatszerkezetet soronként és mezőnként külön kulcsokkal! A kulcsok megadásánál ügyeljünk a projekt és a dolgozo tábla közötti kapcsolatra!
